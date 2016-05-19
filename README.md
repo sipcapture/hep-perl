@@ -1,3 +1,3 @@
 # hep-perl
-HEP Perl implementation. Provided by SipGate
+HEP Perl implementation. Provided by sipgate
 
